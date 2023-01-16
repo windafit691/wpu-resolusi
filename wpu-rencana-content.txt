@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
  *ES6
  *Frameworks Javascript
     ^ Vue
+    ^ React
 - PHP Frameworks
     ^ Laravel
 - Interview
